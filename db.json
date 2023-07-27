@@ -5,7 +5,7 @@
       "title": "ТОП самых опасных животных в мире",
       "mainImg": "https://avatars.dzeninfra.ru/get-zen_doc/9719727/pub_64707bab8f966e318b1cdca7_64707c61348f9454f3bb11b8/scale_1200",
       "text": "Хоть царь зверей и не является самым опасным животным, его стоит опасаться. По разным данным, они ежегодно убивают от 70 до 250 человек. Самыми свирепыми были львы-людоеды из Цаво — национального парка в Кении. От их когтей и клыков погибло больше 135 человек.",
-      "views": 72,
+      "views": 76,
       "userId": "1",
       "comments": [
         {
@@ -14,7 +14,7 @@
           "text": "comment",
           "userName": "admin",
           "userId": "1",
-          "userImg": ""
+          "userImg": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNCIgZmlsbD0iIzMzMzYzRiIvPg0KPHBhdGggZD0iTTIxIDEyQzIxIDEyIDIwIDQgMTIgNEM0IDQgMyAxMiAzIDEyIiBzdHJva2U9IiMzMzM2M0YiIHN0cm9rZS13aWR0aD0iMiIvPg0KPC9zdmc+"
         },
         {
           "id": 2,
@@ -39,7 +39,7 @@
       "title": "Что такое шаровая молния и существует ли она в реальности",
       "mainImg": "https://avatars.dzeninfra.ru/get-zen_doc/5298771/pub_64957a66dc300d6eeaf383b0_64957a7adc300d6eeaf38f35/scale_1200",
       "text": "Вы тоже помните наказы бабушки из детства закрывать окна в грозу? Многие боятся шаровых молний, ведь это до сих пор одно из самых малоизученных явлений в природе. Разбираемся, что о нем известно. Этот материал выходит в рамках проекта «Мифбастинг», где мы рассказываем о спорных явлениях, достоверность которых не доказана в академической среде. Пытаемся разобраться, что правда, а где вымысел. При написании статей авторы мыслят критически и используют научный подход, чтобы не распространять ложную информацию.",
-      "views": 86,
+      "views": 87,
       "userId": "1",
       "comments": [
         {
@@ -48,7 +48,8 @@
           "text": "comment",
           "userName": "deldel",
           "userId": "2",
-          "userImg": ""}
+          "userImg": ""
+        }
       ]
     },
     {
@@ -91,9 +92,9 @@
       "id": 7,
       "userId": "2",
       "title": "Классная статья",
-      "mainImg": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTUuMDUwMSA3LjA0NDE5QzE1LjQ2NzMgNS43OTI1NCAxNC41MzU3IDQuNSAxMy4yMTYzIDQuNUMxMi41OTIxIDQuNSAxMi4wMDYyIDQuODAxNDcgMTEuNjQzNCA1LjMwOTQ0TDguNDcxNTUgOS43NUg1Ljg1NzQ4TDUuMTA3NDggMTAuNVYxOEw1Ljg1NzQ4IDE4Ljc1SDE2LjgyMTFMMTkuMTI0NyAxNC4xNDI4QzE5LjgwODggMTIuNzc0NyAxOS41NDA2IDExLjEyMjQgMTguNDU5MSAxMC4wNDA4QzE3Ljc5MjYgOS4zNzQzOSAxNi44ODg4IDkgMTUuOTQ2MyA5SDE0LjM5ODFMMTUuMDUwMSA3LjA0NDE5Wk05LjYwNzUxIDEwLjc0MDRMMTIuODY0IDYuMTgxM0MxMi45NDUzIDYuMDY3NTMgMTMuMDc2NSA2IDEzLjIxNjMgNkMxMy41MTE4IDYgMTMuNzIwNSA2LjI4OTUxIDEzLjYyNyA2LjU2OTg0TDEyLjMxNyAxMC41SDE1Ljk0NjNDMTYuNDkxIDEwLjUgMTcuMDEzMyAxMC43MTY0IDE3LjM5ODQgMTEuMTAxNUMxOC4wMjM1IDExLjcyNjUgMTguMTc4NCAxMi42ODE0IDE3Ljc4MzEgMTMuNDcyTDE1Ljg5NDEgMTcuMjVIOS42MDc1MVYxMC43NDA0Wk04LjEwNzUxIDE3LjI1SDYuNjA3NDhWMTEuMjVIOC4xMDc1MVYxNy4yNVoiIGZpbGw9IiMwODAzNDEiLz4NCjwvc3ZnPg==",
+      "mainImg": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNCIgZmlsbD0iIzMzMzYzRiIvPg0KPHBhdGggZD0iTTIxIDEyQzIxIDEyIDIwIDQgMTIgNEM0IDQgMyAxMiAzIDEyIiBzdHJva2U9IiMzMzM2M0YiIHN0cm9rZS13aWR0aD0iMiIvPg0KPC9zdmc+",
       "text": "Классный текст",
-      "views": 3,
+      "views": 5,
       "comments": [
         {
           "id": 1,
@@ -101,7 +102,7 @@
           "text": "Классный комментарий",
           "userName": "admin",
           "userId": "1",
-          "userImg": ""
+          "userImg": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNCIgZmlsbD0iIzMzMzYzRiIvPg0KPHBhdGggZD0iTTIxIDEyQzIxIDEyIDIwIDQgMTIgNEM0IDQgMyAxMiAzIDEyIiBzdHJva2U9IiMzMzM2M0YiIHN0cm9rZS13aWR0aD0iMiIvPg0KPC9zdmc+"
         }
       ]
     }
